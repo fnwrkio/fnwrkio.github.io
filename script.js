@@ -1,8 +1,7 @@
 $(function() {
     $("#typed").typed({
         // Change to edit type effect
-        strings: ["web developer", "nerd", "frontend developer", "backend developer", "designer of ui/ux", "book reader", "software engineer", "freelancer"],
-
+        strings: ["web developer", "frontend dev", "backend dev", "ui/ux designer", "software engineer", "freelancer"],
         typeSpeed: 90,
         backDelay: 700,
         contentType: "html",
