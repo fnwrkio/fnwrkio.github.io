@@ -49,7 +49,7 @@ header nav ul li {
 header nav ul li a {
     text-decoration: none;
     color: #000000;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .__card {
@@ -159,7 +159,7 @@ a {
 }
 .sc ul li p {
     margin: 0px;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 32px;
 }
 
@@ -237,18 +237,18 @@ a {
 footer {
     padding-top: 18px;
     padding-bottom: 18px;
-    margin-top: 10px;
+    margin-top: 40px;
 }
 
 .footer-content {
     display: flex;
     flex-wrap: wrap-reverse;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .footer-text {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .footer-link ul {
